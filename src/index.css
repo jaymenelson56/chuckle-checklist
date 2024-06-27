@@ -1,6 +1,6 @@
 /*Reset
 --------------------------------------------------------------*/
-html,
+/* html,
 body,
 div,
 span,
@@ -89,7 +89,7 @@ video {
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article,
+/* article,
 aside,
 details,
 figcaption,
@@ -123,4 +123,4 @@ q:after {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-}
+} */ 
